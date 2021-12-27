@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on `A cpp implmentation of circular buffer`
+- 🔭 I’m currently working on [`A cpp implmentation of circular buffer`](https://github.com/Equationzhao/circle_buffer)
 - 🌱 I’m currently learning `Anything I wanna learn`
 - 💬 Ask me about `Anything I can Help`
 - 📫 How to reach me: Equationzhao@foxmail.com

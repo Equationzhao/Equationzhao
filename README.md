@@ -1,11 +1,8 @@
 ### Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/90d4bbc2-a779-4bb1-a2a2-572e90fc4e29.svg)](https://wakatime.com/@90d4bbc2-a779-4bb1-a2a2-572e90fc4e29)
 - 🔭 I’m currently working on golang
 - 🌱 I’m currently learning `Anything I wanna learn`
 - 💬 Ask me about `Anything I can Help`
 - 📫 How to reach me: Equationzhao@foxmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Equationzhao)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Equationzhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Equationzhao&range=all_time&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Equation/3c29c174-9a89-4845-8ec6-af40cf44bcae.png" /></a>

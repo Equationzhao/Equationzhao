@@ -4,5 +4,6 @@
 - 🌱 I’m currently learning `Anything I wanna learn`
 - 💬 Ask me about `Anything I can Help`
 - 📫 How to reach me: Equationzhao@foxmail.com
+- 🌍 Welcome to [blog.equationzhao.space](blog.equationzhao.space)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Equationzhao)](https://github.com/anuraghazra/github-readme-stats)

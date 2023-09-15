@@ -6,4 +6,9 @@
 - 📫 How to reach me: Equationzhao@foxmail.com
 - 🌍 Welcome to https://blog.equationzhao.space
 
+# Top language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Equationzhao)](https://github.com/anuraghazra/github-readme-stats)
+
+# Github Status
+![github state](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Equationzhao)
+![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Equationzhao)

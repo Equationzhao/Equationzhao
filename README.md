@@ -3,15 +3,16 @@
 - 🔭 I’m currently working on golang
 - 🌱 I’m currently learning `Anything I wanna learn`
 - 💬 Ask me about `Anything I can Help`
-- 📫 How to reach me: Equationzhao@foxmail.com
+- 📫 How to reach me: equationzhao@foxmail.com
 - 🌍 Welcome to https://blog.equationzhao.space
 
-# Top language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Equationzhao)](https://github.com/anuraghazra/github-readme-stats)
-
-# Github Status
-![github state](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Equationzhao)
-![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Equationzhao)
+# Github state
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=75521101" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=75521101&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Equationzhao" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=75521101&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
 # GPG PUB KEY
 ``` 

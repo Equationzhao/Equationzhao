@@ -21,6 +21,11 @@
   </picture>
 </a>
 
+# daily.dev
+
+ <a href="https://app.daily.dev/equationzhao"><img src="https://api.daily.dev/devcards/799761d9fb414437a7f85e5422b3c7f1.png?r=ur9" width="400" alt="equationzhao's Dev Card"/></a>
+
+
 # GPG PUB KEY
 ``` 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
